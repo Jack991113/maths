@@ -1,0 +1,29 @@
+# Local caches and environments
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Credentials and student records live outside the skill
+.env
+.env.*
+!.env.example
+.siliconflow-key
+api.json
+profile.json
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+maths-data/
+maths-runtime/
+maths-skill-backups/
+
+# Build output, local demonstrations and the requirements conversation
+/release/
+/maths-demo/
+/maths-需求确认.md

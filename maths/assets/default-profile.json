@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "student_id": "personal",
+  "region": "江苏徐州",
+  "grade": "初三",
+  "exam_year": 2027,
+  "textbook": "苏科版",
+  "textbook_edition": null,
+  "current_topic": "反比例函数",
+  "recent_score": {"score": 130, "total": 150, "date": null, "source": "用户自述"},
+  "target": {"score": 140, "total": 140},
+  "focus_topics": ["圆", "二次函数", "一元二次方程"],
+  "learning_status": {
+    "圆": {"status": "刚开始学", "source": "用户自述"},
+    "二次函数": {"status": "自行预习过", "source": "用户自述"},
+    "一元二次方程": {"status": "自评理解约90%", "source": "用户自评，非测量掌握率"}
+  },
+  "paper": {
+    "modes": ["topic", "comprehensive"],
+    "question_count": 26,
+    "total_points": 140,
+    "minutes": 90,
+    "difficulty": "中考难度",
+    "original_questions_preferred": true,
+    "allow_repeat_questions": true,
+    "past_paper_start_year": 2021,
+    "answers_at_end": true,
+    "step_scoring": true
+  },
+  "documents": {"page": "A4", "black_and_white": true, "answer_space": true, "show_handwriting": false, "separate_png": true},
+  "retention": "保存至用户明确要求删除",
+  "raw_images_retained": true
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "maths 徐州中考数学"
+  short_description: "持续积累个人错题，分析易错点并生成含配图和分步评分的中考数学 Word 试卷"
+  default_prompt: "使用 $maths 读取我的学习档案，根据错题生成一份指定知识点的数学试卷。"
+policy:
+  allow_implicit_invocation: true
